@@ -1,0 +1,56 @@
+body {
+  color: #767e9e;
+  font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+.site-header {
+  padding-top: 13px;
+  padding-bottom: 13px;
+  background-color: #2d303a;
+  border-bottom: 6px solid #323746;
+}
+
+
+.section-carousel {
+  color: #f0d8d9;
+  padding-top: 55px;
+  padding-bottom: 55px;
+  background-color: #f06c64;
+  border-bottom: 6px solid #ea676b;
+}
+
+.section-services {
+  padding-top: 65px;
+  padding-bottom: 65px;
+  background-color: #f2f2f2;
+  border-bottom: 6px solid #ffffff;
+}
+
+.section-portfolio {
+  padding-top: 65px;
+  padding-bottom: 65px;
+  background-color: #2d303a;
+  border-bottom: 6px solid #323746;
+}
+
+.section-about {
+  padding-top: 65px;
+  padding-bottom: 65px;
+  background-color: #f2f2f2;
+  border-bottom: 6px solid #ffffff;
+}
+
+.section-contact {
+  color: #f0d8d9;
+  padding-top: 65px;
+  padding-bottom: 65px;
+  background-color: #f06c64;
+  border-bottom: 6px solid #ea676b;
+}
+
+
+.site-footer {
+  padding-top: 21px;
+  padding-bottom: 21px;
+  background-color: #2d303a;
+}
