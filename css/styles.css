@@ -8,6 +8,26 @@ body {
   padding-bottom: 13px;
 }
 
+@media (min-width: 769px) {
+  .section-services {
+    color: #ddd;
+  }
+}
+
+@media (min-width: 769px) {
+  .section-services {
+    color: #cccc44;
+  }
+}
+.section-portfolio img {
+  max-width: 100%;
+}
+
+.portfolio-gallery__item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .section-contact {
   color: #f0d8d9;
 }
@@ -21,7 +41,7 @@ body {
   display: flex;
 }
 
-.section-carousel, .section-portfolio, .section-about, .section-contact {
+.section-carousel, .section-services, .section-portfolio, .section-about, .section-contact {
   padding-top: 65px;
   padding-bottom: 65px;
 }
@@ -37,7 +57,7 @@ body {
   border-bottom: 6px solid #323746;
 }
 
-.section-about {
+.section-services, .section-about {
   background-color: #f2f2f2;
   border-bottom: 6px solid #ffffff;
 }

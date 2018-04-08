@@ -2,12 +2,16 @@
 
 
 
-@import 'base.scss';
-@import 'header.scss';
-@import 'carousel.scss';
-@import 'portfolio.scss';
-@import 'about.scss';
-@import 'contact.scss';
-@import 'footer.scss';
+@import 'vendors/include-media';
 
-@import 'helpers.scss';
+
+@import 'base';
+@import 'header';
+@import 'carousel';
+@import 'services';
+@import 'portfolio';
+@import 'about';
+@import 'contact';
+@import 'footer';
+
+@import 'helpers';
